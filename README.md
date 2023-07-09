@@ -1,5 +1,5 @@
 # uas
-
+Herieldri Ahmadin Wahid (213510291)
 ## Project setup
 ```
 npm install
